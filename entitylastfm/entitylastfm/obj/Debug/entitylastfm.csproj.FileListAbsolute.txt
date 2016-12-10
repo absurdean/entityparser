@@ -1,0 +1,16 @@
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\entitylastfm.exe.config
+D:\прожики\entitylastfm\entitylastfm\obj\Debug\entitylastfm.csprojResolveAssemblyReference.cache
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\entitylastfm.exe
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\entitylastfm.pdb
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\EntityFramework.dll
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\EntityFramework.SqlServer.dll
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\HtmlAgilityPack.dll
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\LiteDB.dll
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\EntityFramework.xml
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\EntityFramework.SqlServer.xml
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\HtmlAgilityPack.pdb
+D:\прожики\entitylastfm\entitylastfm\bin\Debug\HtmlAgilityPack.xml
+D:\прожики\entitylastfm\entitylastfm\obj\Debug\entitylastfm.exe
+D:\прожики\entitylastfm\entitylastfm\obj\Debug\entitylastfm.pdb
+D:\прожики\entitylastfm\entitylastfm\obj\Debug\entitylastfm.Migrations.init.resources
+D:\прожики\entitylastfm\entitylastfm\obj\Debug\entitylastfm.csproj.GenerateResource.Cache
